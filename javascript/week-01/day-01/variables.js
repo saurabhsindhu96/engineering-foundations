@@ -35,4 +35,4 @@ console.log(country);
 
 console.log(country); // Here we are getting error because the const is a fixed variable and we are trying to change it's value. So we need to use let instead of const if we want to change a value or declare a new variable instead.
 
-///////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
