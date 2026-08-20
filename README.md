@@ -1,1 +1,1 @@
-Engineering profile of me
+Foundation must be strong in order to achieve a goal
