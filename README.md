@@ -1,1 +1,1 @@
-Foundation must be strong in order to achieve a goal
+Foundation must be strong in order to achieve a goal.
