@@ -11,9 +11,9 @@ const name = "Saurabh";
 
 console.log(name);
 
-// ============================================
+// =============================
 // INNER SCOPE ACCESSING OUTER SCOPE
-// ============================================
+// =============================
 
 function greet() {
   console.log(name);
