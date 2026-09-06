@@ -47,9 +47,7 @@ outer();
 // ============================================
 // HOW JAVASCRIPT FINDS "city"
 // ============================================
-
-// inner() looks for "city".
-//
+//inner() looks for "city".
 // Current scope:
 //     inner()
 //         ↓
