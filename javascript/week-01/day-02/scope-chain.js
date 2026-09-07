@@ -13,10 +13,10 @@
 // It continues moving outward until it finds
 // the variable or reaches the outermost scope.
 
-const country = "India";
+const country = "Canada";
 
 function outer() {
-  const city = "Panipat";
+  const city = "Vancouver";
 
   function inner() {
     const name = "Saurabh";
