@@ -77,6 +77,7 @@ outer();
 // not found
 //
 // Global/outermost scope:
-//     country found.
+// country found.
+//
 //
 // JavaScript stops searching.
