@@ -4,7 +4,7 @@
 // DAY 2 — VARIABLE SHADOWING
 // ===================================
 
-const name = "Saurabh";
+const name = "Soron";
 
 function greet() {
   const name = "John";
@@ -19,4 +19,4 @@ console.log(name);
 // Output:
 //
 // John
-// Saurabh
+// Soron
